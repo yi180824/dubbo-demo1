@@ -1,7 +1,7 @@
 ﻿# dubbo-demo1
 ##项目搭建步骤： 
 ### **第一步：安装jdk1.8**
-### **第二步：安装zookeeper **
+### 第二步：安装zookeeper
 ### **第三步：安装tomcat **
 ### **第四步：下载dubbo并打包到tomcat测试dubbo-admin-2.6.0 **
 ### **第五步：创建项目**
