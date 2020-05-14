@@ -1,6 +1,6 @@
 ﻿# 该项目使用maven搭建，用来测试dubbo实现微服务
 ## 项目介绍
-	该项目使用spring+dubbo+zookeeper.使用服务在zookeeper中注册，使用dubbo管理服务.
+	该项目使用spring+dubbo+zookeeper.服务在zookeeper中注册，使用dubbo管理服务.
 ## 项目搭建步骤： 
 	第一步：安装jdk1.8
 	第二步：安装zookeeper
